@@ -1,8 +1,8 @@
-package week14;
+
 
 import java.util.Scanner;
 
-public class kafe09 {
+public class cafe09 {
     public static void menu(String customerName, boolean isMember) {
         System.out.println("Welcome, " + customerName + "!");
 
